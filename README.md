@@ -16,7 +16,7 @@ This line plot generally shows how old each party's representatives are, as it r
 Link to original data source: [US Representatives](https://www.govtrack.us/api/v2/role?current=true&role_type=representative&limit=438)
 
 
-![Graph of Representatives](https://github.com/nikhilagarwal1111/Congress-Analysis/blob/main/Representatives%20Graph.png)
+![Graph of Representatives](https://github.com/nikhilagarwal1111/Congress-Analysis/blob/main/Representatives%20Graph1.png)
 
 Link to [project instructions](https://github.com/mikeizbicki/cmc-csci040/tree/2021fall/hw_02)
 
