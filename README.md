@@ -7,7 +7,7 @@ This bar chart shows the term limits of Senators in the US Senate right now. As 
 
 Link to original data source: [US Senators](https://www.govtrack.us/api/v2/role?current=true&role_type=senator)
 
-![Graph of Senators](https://github.com/nikhilagarwal1111/Congress-Analysis/blob/main/Senators%20Graph1.png)
+![Graph of Senators](https://github.com/nikhilagarwal1111/Congress-Analysis/blob/main/Senators%20Graph2.png)
 
 **Line plot of the number of representatives born in each decade from each party**
 
